@@ -5,4 +5,4 @@
 ### Category Name 1
 
 
-[Demand forecasting of electricty using R}
+[Demand forecasting of electricty using R]
